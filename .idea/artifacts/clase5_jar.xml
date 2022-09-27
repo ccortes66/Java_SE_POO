@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="clase5:jar">
-    <output-path>$PROJECT_DIR$/out</output-path>
-    <root id="archive" name="clase5.jar">
-      <element id="module-output" name="clase5" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../PlatziJavaSEOpp/lombok.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
